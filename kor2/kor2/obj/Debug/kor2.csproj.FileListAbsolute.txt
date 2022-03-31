@@ -1,0 +1,13 @@
+C:\Users\Arni\source\repos\kor2\kor2\bin\Debug\kor2.exe.config
+C:\Users\Arni\source\repos\kor2\kor2\bin\Debug\kor2.exe
+C:\Users\Arni\source\repos\kor2\kor2\bin\Debug\kor2.pdb
+C:\Users\Arni\source\repos\kor2\kor2\obj\Debug\kor2.csproj.AssemblyReference.cache
+C:\Users\Arni\source\repos\kor2\kor2\obj\Debug\kor2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Arni\source\repos\kor2\kor2\obj\Debug\kor2.csproj.CoreCompileInputs.cache
+C:\Users\Arni\source\repos\kor2\kor2\obj\Debug\kor2.exe
+C:\Users\Arni\source\repos\kor2\kor2\obj\Debug\kor2.pdb
+C:\Users\Arni\source\repos\HorvathArnold\kor2\kor2\obj\Debug\kor2.csproj.AssemblyReference.cache
+C:\Users\Arni\source\repos\HorvathArnold\kor2\kor2\obj\Debug\kor2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Arni\source\repos\HorvathArnold\kor2\kor2\obj\Debug\kor2.csproj.CoreCompileInputs.cache
+C:\Users\Arni\source\repos\HorvathArnold\kor2\kor2\obj\Debug\kor2.exe
+C:\Users\Arni\source\repos\HorvathArnold\kor2\kor2\obj\Debug\kor2.pdb
