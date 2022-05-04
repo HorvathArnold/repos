@@ -1,0 +1,8 @@
+C:\Users\Arni\source\repos\kopapirollo\kopapirollo\obj\Debug\kopapirollo.csproj.AssemblyReference.cache
+C:\Users\Arni\source\repos\kopapirollo\kopapirollo\obj\Debug\kopapirollo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Arni\source\repos\kopapirollo\kopapirollo\obj\Debug\kopapirollo.csproj.CoreCompileInputs.cache
+C:\Users\Arni\source\repos\kopapirollo\kopapirollo\bin\Debug\kopapirollo.exe.config
+C:\Users\Arni\source\repos\kopapirollo\kopapirollo\bin\Debug\kopapirollo.exe
+C:\Users\Arni\source\repos\kopapirollo\kopapirollo\bin\Debug\kopapirollo.pdb
+C:\Users\Arni\source\repos\kopapirollo\kopapirollo\obj\Debug\kopapirollo.exe
+C:\Users\Arni\source\repos\kopapirollo\kopapirollo\obj\Debug\kopapirollo.pdb
